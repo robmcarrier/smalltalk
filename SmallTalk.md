@@ -1,5 +1,4 @@
 ##Chapter 1
-------
 *Eliminate*
 1. Duplicate code
 2. Conditional Logic
@@ -13,4 +12,3 @@ Break Down to Small Parts(methods, objects, etc)
 
 
 ##Chapter 3
-------
