@@ -1,9 +1,9 @@
 ##Chapter 1
 *Eliminate*
-1. Duplicate code
-2. Conditional Logic
-3. Complex Methods
-4. Structural Code
+* Duplicate code
+* Conditional Logic
+* Complex Methods
+* Structural Code
 
 Readable to someone else(comments, clean code)
 
